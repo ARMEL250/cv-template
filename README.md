@@ -1,2 +1,6 @@
 # cv-template
-cv template of IT project manager 
+#general-infos
+this is a cv template of an IT project manager designed using the below technologies 
+#technologies
+.HTMl
+.CSS
